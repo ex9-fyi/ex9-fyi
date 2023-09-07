@@ -1,4 +1,12 @@
-Hi! I am interested in EVM security and Defi applications. DM's open! 
+* Currently, I am singlarly focused on the security side of Defi.
+* I believe there are themes under-explored in blockchain contracts:
+  * Security by simplification
+    * Through DSLs ([example from the STEPS](https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf))
+  * Security by isolation ([example from QubesOS](https://t.co/DuWNrTnv76))
+ * I am currently putting skin in the game by working in audit contests and bug contest, with the long term goal of turning my learning into tools that make blockchain contracts more secure
+ * DM's open! 
+
+# Audit Portfolio
 
 ---
 
