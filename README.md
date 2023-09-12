@@ -3,7 +3,7 @@
   * Security by simplification
     * Through DSLs ([example from the STEPS](https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf))
   * Security by isolation ([example from QubesOS](https://t.co/DuWNrTnv76))
- * I am currently putting skin in the game by working in audit contests and bug contest, with the long term goal of turning my learning into tools that make blockchain contracts more secure
+ * I am currently working in private audits, audit contests and bug bounties, with the long term goal of turning my learning into tools that make blockchain contracts more secure
  * DM's open! 
 
 # Audit Portfolio
