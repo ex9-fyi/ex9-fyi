@@ -44,4 +44,4 @@ Here are the public reports, and list of the private audits.
 
 ## Design Support
 
-I previously worked on full stack engineering for 2 years, where we valued highly the design and lowering the complexity of the system.  So I would be happy to go into detail on your design, especially around making the system more auditable but satisfying the important requirements. 
+I previously worked on full stack engineering, where we valued highly the design process and lowering the complexity of the system.  So I would be happy to go into detail on your design, especially around making the system more auditable but satisfying the important requirements. 
