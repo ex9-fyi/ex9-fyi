@@ -1,28 +1,17 @@
-* Currently, I am singlarly focused on the security side of Defi.
-* I believe there are themes under-explored in blockchain contracts:
-  * Security by simplification
-    * Through DSLs ([example from the STEPS](https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf))
+* Themes I believe to be under-explored in blockchain contracts:
+  * Security by simplification through DSLs ([example from the STEPS](https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf))
   * Security by isolation ([example from QubesOS](https://t.co/DuWNrTnv76))
- * I am currently working in private audits, audit contests and bug bounties, with the long term goal of turning my learning into tools that make blockchain contracts more secure
- * DM's open! 
+ * I am currently working in private audits, contests and bounties, with the goal of turning learning into tools that make contracts more secure. DM's open
 
 # Audit Portfolio
 
----
+Beside finding critical and high severity issues, I take pride in thorough anaylsis of the vulnerabilities and mitigations, so you're supported in finding a long term fix rather quick & dirty workaround. I will use Maker as an example.
 
-Beside finding critical and high severity issues, I take pride in providing a thorough anaylsis of the vulnerabilities and mitigations, so the client is supported in finding a long term fix rather quick & dirty workaround. I will use Maker as an example.
-
-## Maker
-
-So Maker wanted to buy back their governance tokens, MKR. **But had challenge in their contract design to balance between 1) making the execution permissionless and 2) avoiding being arbitrage**. If the purchase were permissioned, arbitrages by malicious traders would be impossible.
-
-We statisically quantified the arbitrage risk with 3 months of market price data and [provided 3 detailed mitigations that satisfy their requirement of being permissionless](https://0xmacro.notion.site/MakerDAO-1-TWAP-Lag-and-Arbitrage-Loss-5ee753d73d4f49dda61c4d566e99f925).
-
-Without going into the detail here, here is their response at the end: **"Nice idea! I think this is certainly a measure to consider we see many sandwich attacks"**.
+So Maker wanted to buy back their governance tokens, MKR. **But had challenge in their contract design to balance between 1) making the execution permissionless and 2) avoiding being arbitrage**. If the purchase were permissioned, arbitrages by malicious traders would be impossible. We statisically quantified the arbitrage risk with 3 months of market price data and [provided 3 detailed mitigations that satisfy their requirement of being permissionless](https://0xmacro.notion.site/MakerDAO-1-TWAP-Lag-and-Arbitrage-Loss-5ee753d73d4f49dda61c4d566e99f925). I'm confident we added value, here is their response at the end: **"Nice idea! I think this is certainly a measure to consider we see many sandwich attacks"**.
 
 ## Audits
 
-Here are the public reports, and list of the private audits.
+Some selected audits:
 
 * Maker-1: Dollar Cost Average contracts, **1 medium**
   * https://0xmacro.com/library/audits/maker-1
@@ -42,6 +31,10 @@ Here are the public reports, and list of the private audits.
 
 * 0xMacro private audits: TreasureDAO, Frax, Zion (audit and design consultation)
 
-## Design Support
+* Based Market Trade to Earn
 
-I previously worked on full stack engineering, where we valued highly the design process and lowering the complexity of the system.  So I would be happy to go into detail on your design, especially around making the system more auditable but satisfying the important requirements. 
+* Vyper compiler audit ([public issues](https://github.com/vyperlang/vyper/issues?q=is%3Aissue+is%3Aclosed+author%3Aexp7l))
+
+## Design Support & Prior Experience
+
+I previously worked on backend in a FAANG. Our team higly valued design and managing complexity. I'd be happy to provide consultation on your design especially around auditability front. 
