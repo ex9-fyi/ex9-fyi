@@ -23,7 +23,7 @@ Some selected audits:
 * Thirdweb-6: Marketplace contracts, **4 critical, 1 high, 1 medium**
   * https://0xmacro.com/library/audits/thirdweb-6
 
-* 0xMacro private audits: TreasureDAO, Frax, Zion (audit and design consultation)
+* 0xMacro private audits: TreasureDAO ([MagicSwap](https://treasuredao.substack.com/p/magicswap-the-first-amm-with-universal)), Frax, Zion (audit and design consultation)
 
 * Based Market Trade to Earn
   * https://github.com/exp7l/docs/blob/main/based-market-trade-to-earn.pdf
