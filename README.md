@@ -29,3 +29,7 @@ Some selected audits:
   * https://github.com/exp7l/docs/blob/main/based-market-trade-to-earn.pdf
 
 * Vyper compiler audit ([public issues](https://github.com/vyperlang/vyper/issues?q=is%3Aissue+is%3Aclosed+author%3Aexp7l))
+
+# Dev
+
+* Contributions to darkfi: https://github.com/darkrenaissance/darkfi/pulls?q=author%3Afreeranged3v+
