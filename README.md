@@ -1,7 +1,8 @@
 * Themes I believe to be under-explored in blockchain contracts:
   * Security by simplification through DSLs ([example from the STEPS](https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf))
   * Security by isolation ([example from QubesOS](https://t.co/DuWNrTnv76))
- * I am currently working in private audits, contests and bounties, with the goal of turning learning into tools that make contracts more secure. DM's open
+ * I am currently working in private audits, contests and bounties, with the goal of turning learning into tools that make contracts more secure.
+ * Let's connect over x.com/exponential__ (DM's open)
 
 # Audit Portfolio
 
