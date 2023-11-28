@@ -5,7 +5,11 @@
 
 # Audit Portfolio
 
-Some selected audits:
+* Found vulnerabilities and developed exploits for defi apps, including high severity vulnerabilities for a system with $10+MM value locked.
+* Audited for Maker, Sommelier, TreasureDAO, Vyper and other reputable teams.
+* Worked with 0xmacro.com and independently.
+
+## Some Selected Audits
 
 * Maker-1: Dollar Cost Average contracts, **1 medium**
   * https://0xmacro.com/library/audits/maker-1
