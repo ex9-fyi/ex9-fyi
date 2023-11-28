@@ -33,3 +33,4 @@ Some selected audits:
 # Dev
 
 * Contributions to darkfi: https://github.com/darkrenaissance/darkfi/pulls?q=author%3Afreeranged3v+
+* Prior FAANG backend dev experience
