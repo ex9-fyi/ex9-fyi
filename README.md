@@ -40,5 +40,5 @@
 # Dev
 
 * Contributions to [Dark.fi](https://dark.fi/): https://github.com/darkrenaissance/darkfi/pulls?q=author%3Afreeranged3v+
-* dmap fork (minimal ENS alternative): github.com/exp7l/dmap 
+* dmap fork (minimal ENS alternative): [github.com/exp7l/dmap](github.com/exp7l/dmap) 
 * Prior FAANG backend dev experience
