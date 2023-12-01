@@ -3,6 +3,21 @@
   * Security by isolation ([example from QubesOS](https://t.co/DuWNrTnv76))
  * Let's connect over on X [https://x.com/exponential__](https://x.com/exponential__) (DM's open)
 
+# Dev Experiences
+
+* Prior FAANG backend dev experience
+* [dmap](https://github.com/dapphub/dmap/) fork i.e. a minimal ENS alternative: [github.com/exp7l/dmap](https://github.com/exp7l/dmap)
+* Contributions to [Dark.fi](https://dark.fi/):
+  * Taken from PSE's Halo2 fork to make `configure` take "dynamic parameters" https://github.com/parazyd/halo2/pull/2
+```
+        fn configure_with_params(
+            meta: &mut ConstraintSystem<pallas::Base>,
+            params: Self::Params,
+        ) -> Self::Config {...}
+```
+  * other [pull requests](https://github.com/darkrenaissance/darkfi/pulls?q=author%3Afreeranged3v+)
+
+
 # Audit Portfolio
 
 * Found vulnerabilities and developed exploits for defi apps, including high severity vulnerabilities for a system with $10+MM value locked.
@@ -36,9 +51,3 @@
   * TreasureDAO ([MagicSwap](https://treasuredao.substack.com/p/magicswap-the-first-amm-with-universal))
   * Frax
   * Zion (audit and design consultation)
-
-# Dev
-
-* Contributions to [Dark.fi](https://dark.fi/): https://github.com/darkrenaissance/darkfi/pulls?q=author%3Afreeranged3v+
-* dmap fork (minimal ENS alternative): [github.com/exp7l/dmap](https://github.com/exp7l/dmap) 
-* Prior FAANG backend dev experience
