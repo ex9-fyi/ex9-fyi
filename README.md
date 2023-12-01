@@ -1,3 +1,5 @@
+Hi! I currently work as an EVM auditor and blockchain developer.
+
 * Themes I believe to be under-explored in blockchain contracts:
   * Security by simplification through DSLs ([example from the STEPS](https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf))
   * Security by isolation ([example from QubesOS](https://t.co/DuWNrTnv76))
