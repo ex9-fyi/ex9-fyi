@@ -10,14 +10,14 @@ Hi! I currently work as an **EVM auditor** and **blockchain developer**.
 * Prior FAANG backend dev experience
 * [dmap](https://github.com/dapphub/dmap/) fork i.e. a minimal onchain name service: [github.com/exp7l/dmap](https://github.com/exp7l/dmap)
 * Contributions to [Dark.fi](https://dark.fi/):
-  * Taken from PSE's Halo2 fork to make `configure` take "dynamic parameters" https://github.com/parazyd/halo2/pull/2
-```
+    * Taken from PSE's Halo2 fork to make `configure` take "dynamic parameters" https://github.com/parazyd/halo2/pull/2
+    ```
         fn configure_with_params(
             meta: &mut ConstraintSystem<pallas::Base>,
             params: Self::Params,
         ) -> Self::Config {...}
-```
-  * other [pull requests](https://github.com/darkrenaissance/darkfi/pulls?q=author%3Afreeranged3v+)
+    ```
+    * other [pull requests](https://github.com/darkrenaissance/darkfi/pulls?q=author%3Afreeranged3v+)
 
 
 # Audit Portfolio
