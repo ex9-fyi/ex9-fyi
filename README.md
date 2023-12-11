@@ -8,7 +8,7 @@ Hi! I currently work as an **EVM auditor** and **blockchain developer**.
 # Dev Experiences
 
 * Prior FAANG backend dev experience
-* [dmap](https://github.com/dapphub/dmap/) fork i.e. a minimal onchain name service: [github.com/exp7l/dmap](https://github.com/exp7l/dmap)
+* Emap, a minimal onchain name service: https://github.com/exp7l/emap
 * Contributions to [Dark.fi](https://dark.fi/):
     * Taken from PSE's Halo2 fork to make `configure` take "dynamic parameters" https://github.com/parazyd/halo2/pull/2
     ```
