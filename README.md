@@ -7,7 +7,6 @@ Hi! I currently work as an **EVM auditor** and **blockchain developer**.
 
 # Dev Experiences
 
-* Prior FAANG backend dev experience
 * Emap, a minimal onchain name service: https://github.com/exp7l/emap
 * Contributions to [Dark.fi](https://dark.fi/):
     * Taken from PSE's Halo2 fork to make `configure` take "dynamic parameters" https://github.com/parazyd/halo2/pull/2
@@ -18,7 +17,7 @@ Hi! I currently work as an **EVM auditor** and **blockchain developer**.
         ) -> Self::Config {...}
     ```
     * other [pull requests](https://github.com/darkrenaissance/darkfi/pulls?q=author%3Afreeranged3v+)
-
+* Prior backend dev experience at FAANG
 
 # Audit Portfolio
 
