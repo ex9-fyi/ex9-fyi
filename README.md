@@ -26,20 +26,20 @@ Hi! I currently work as an EVM auditor and developer. Happy to connect and my DM
 * Report and vulnerabilities found by team and I:
   * [Cellar contracts; 3 high, 9 medium, 4 low](https://0xmacro.com/library/audits/sommelier-3).
   * [Cellar contracts and defi protocol integrations; 5 high, 8 medium, 2 low](https://0xmacro.com/library/audits/sommelier-4).
-  * [Euler integration contracts; 2 high](https://0xmacro.com/library/audits/sommelier-5)
+  * [Euler integration contracts; 2 high](https://0xmacro.com/library/audits/sommelier-5).
 
 #### 4. [Thirdweb](https://thirdweb.com/)
 
-* [Marketplace contracts report by team and I; 4 critical, 1 high, 1 medium](https://0xmacro.com/library/audits/thirdweb-6)
+* [Marketplace contracts report by team and I; 4 critical, 1 high, 1 medium](https://0xmacro.com/library/audits/thirdweb-6).
 
 #### 5. [Based Market](https://www.based.markets/)'s Trade to Earn program
 
-* [Solo audit; 1 ciritcal and 2 medium](https://github.com/exp7l/docs/blob/main/based-market-trade-to-earn.pdf)
+* [Solo audit; 1 ciritcal and 2 medium](https://github.com/exp7l/docs/blob/main/based-market-trade-to-earn.pdf).
 
 #### 6. Other audits performed with audit firm [0xMacro](https://0xmacro.com/) (reports are private):
-  * [TreasureDAO](https://treasure.lol/) ([MagicSwap](https://treasuredao.substack.com/p/magicswap-the-first-amm-with-universal))
-  * [Frax](https://frax.finance/)
-  * Zion (audit and design consultation)
+  * [TreasureDAO](https://treasure.lol/) ([MagicSwap](https://treasuredao.substack.com/p/magicswap-the-first-amm-with-universal)).
+  * [Frax](https://frax.finance/).
+  * Zion (audit and design consultation).
 
 ## 2022-Present, free and open source contributions
 
