@@ -4,10 +4,7 @@ Hi! I currently work as an EVM auditor and developer. Happy to connect and my DM
 
 ## 2022-Presetn, EVM dapp auditing
 
-### Summary
-
 * Audited for Maker, Sommelier, TreasureDAO, Vyper and other reputable teams.
-* Worked with 0xmacro.com and independently.
 
 ### Selected audits
 
