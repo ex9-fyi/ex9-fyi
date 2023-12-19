@@ -46,8 +46,8 @@ Hi! I currently work as an EVM auditor and developer. Happy to connect and my DM
 #### a. Zkrunner
 
 * To accelerate Darkfi ZK script developer's iteration speed, Darkfi needed a tool to generate a ZK proof's public inputs based on witnesses, and a way to quickly prove and verify with a Darkfi ZK circuit.
-* I contributed the Python bindings ([1](https://github.com/darkrenaissance/darkfi/pull/178/files),[2](https://github.com/darkrenaissance/darkfi/pull/179/files#diff-d5cf2236d11e91914a46216982f099c86adcc6e426647a4a07580414c9aa6f99)) for Darkfi's SDK
-  * With others' contributions, it led to [this demo](https://github.com/darkrenaissance/darkfi/pull/178/files).
+* I contributed the Python bindings ([1](https://github.com/darkrenaissance/darkfi/pull/178),[2](https://github.com/darkrenaissance/darkfi/pull/179)) for Darkfi's SDK
+  * With others' contributions, it led to [this demo on Twitter](https://twitter.com/parazyd/status/1690776743756402688).
 
 #### b. Runtime parameters for Darkfi ZK circuit
 
@@ -56,7 +56,7 @@ Hi! I currently work as an EVM auditor and developer. Happy to connect and my DM
  
 ### 2. Emap, a minimal onchain name service
 
-* A fork of [DappHub's Dmap](https://github.com/dapphub/dmap/tree/master/core) which is optimized to be as minimal as possible in implementation.
+* A fork of [DappHub's Dmap](https://github.com/dapphub/dmap) which is optimized to be as minimal as possible in implementation.
 * It is a name service that supports forward name resolution (going from name to resources) and backward name resolution (going from resources to name) **in less than 200 lines of code** in order to maximize auditability and security.
 
 ## 2019-2022, Software engineer, Amazon
