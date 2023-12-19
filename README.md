@@ -2,33 +2,14 @@ Hi! I currently work as an EVM auditor and developer. Happy to connect and my DM
 
 # Experiences
 
-### 2022-Present free and open source contributions
+## 2022-Presetn, EVM dapp auditing
 
-* Emap, a minimal onchain name service: https://github.com/exp7l/emap
-* Contributions to [Dark.fi](https://dark.fi/):
-    * Taken from PSE's Halo2 fork to make `configure` take "dynamic parameters" https://github.com/parazyd/halo2/pull/2
-    ```
-        fn configure_with_params(
-            meta: &mut ConstraintSystem<pallas::Base>,
-            params: Self::Params,
-        ) -> Self::Config {...}
-    ```
-    * other [pull requests](https://github.com/darkrenaissance/darkfi/pulls?q=author%3Afreeranged3v+)
+### Summary
 
-### 2019-2022, Software engineer, Amazon
-- Led and shipped automation for legal info collection and investigation
-resulted in $2MM saving in operational cost per year.
-- Led and shipped search keyword recommendations, for amazon.com detail
-page. Showed $10+MM per year profitability lift in pilot.
-- Clojure, AWS for production.
-
-# Audit Portfolio
-
-* Found vulnerabilities and developed exploits for defi apps, including high severity vulnerabilities for a system with $10+MM value locked.
 * Audited for Maker, Sommelier, TreasureDAO, Vyper and other reputable teams.
 * Worked with 0xmacro.com and independently.
 
-## Some Selected Audits
+### Selected audits
 
 * Maker-1: Dollar Cost Average contracts, **1 medium**
   * https://0xmacro.com/library/audits/maker-1
@@ -55,3 +36,32 @@ page. Showed $10+MM per year profitability lift in pilot.
   * TreasureDAO ([MagicSwap](https://treasuredao.substack.com/p/magicswap-the-first-amm-with-universal))
   * Frax
   * Zion (audit and design consultation)
+
+## 2022-Present, free and open source contributions
+
+
+
+### [Darkfi](https://dark.fi/)
+
+* Contributions to [Dark.fi](https://dark.fi/):
+    * Taken from PSE's Halo2 fork to make `configure` take "dynamic parameters" https://github.com/parazyd/halo2/pull/2
+    ```
+        fn configure_with_params(
+            meta: &mut ConstraintSystem<pallas::Base>,
+            params: Self::Params,
+        ) -> Self::Config {...}
+    ```
+    * other [pull requests](https://github.com/darkrenaissance/darkfi/pulls?q=author%3Afreeranged3v+)
+ 
+### Emap, a minimal onchain name service
+
+https://github.com/exp7l/emap
+
+## 2019-2022, Software engineer, Amazon
+- Led and shipped automation for legal info collection and investigation
+resulted in $2MM saving in operational cost per year.
+- Led and shipped search keyword recommendations, for amazon.com detail
+page. Showed $10+MM per year profitability lift in pilot.
+- Clojure, AWS for production.
+
+
