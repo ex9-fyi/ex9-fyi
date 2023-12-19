@@ -36,7 +36,7 @@ Hi! I currently work as an EVM auditor and developer. Happy to connect and my DM
 
 * [Solo audit; 1 ciritcal and 2 medium](https://github.com/exp7l/docs/blob/main/based-market-trade-to-earn.pdf)
 
-#### 6. Other audits performed with audit firm [0xMacro](https://0xmacro.com/):
+#### 6. Other audits performed with audit firm [0xMacro](https://0xmacro.com/) (reports are private):
   * [TreasureDAO](https://treasure.lol/) ([MagicSwap](https://treasuredao.substack.com/p/magicswap-the-first-amm-with-universal))
   * [Frax](https://frax.finance/)
   * Zion (audit and design consultation)
