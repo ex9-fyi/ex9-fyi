@@ -58,10 +58,9 @@ Hi! I currently work as an EVM auditor and developer. Happy to connect and my DM
 https://github.com/exp7l/emap
 
 ## 2019-2022, Software engineer, Amazon
+
 - Led and shipped automation for legal info collection and investigation
 resulted in $2MM saving in operational cost per year.
 - Led and shipped search keyword recommendations, for amazon.com detail
 page. Showed $10+MM per year profitability lift in pilot.
-- Clojure, AWS for production.
-
 
