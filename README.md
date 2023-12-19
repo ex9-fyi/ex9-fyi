@@ -1,8 +1,8 @@
-Hi! I currently work as an EVM auditor and developer.
+Hi! I currently work as an EVM auditor and developer. Happy to connect and my DM's open on [Twitter](https://twitter.com/exponential__).
 
-# Developement experiences
+# Experiences
 
-### Free and open source contributions
+### 2022-Present free and open source contributions
 
 * Emap, a minimal onchain name service: https://github.com/exp7l/emap
 * Contributions to [Dark.fi](https://dark.fi/):
@@ -15,7 +15,7 @@ Hi! I currently work as an EVM auditor and developer.
     ```
     * other [pull requests](https://github.com/darkrenaissance/darkfi/pulls?q=author%3Afreeranged3v+)
 
-### Software engineer, Amazon, 2019-2022
+### 2019-2022, Software engineer, Amazon
 - Led and shipped automation for legal info collection and investigation
 resulted in $2MM saving in operational cost per year.
 - Led and shipped search keyword recommendations, for amazon.com detail
