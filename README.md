@@ -17,7 +17,7 @@ Hi! I currently work as an EVM auditor and developer. Happy to connect and my DM
 #### 2. [Vyper compiler](https://docs.vyperlang.org/en/stable/) (judging now)
  
 * Reported multiple issues, [3 of which are public](https://github.com/vyperlang/vyper/issues?q=is%3Aissue+is%3Aclosed+author%3Aexp7l).
-* An interesting issue which is acknowledged by the Vyper team is there are redundant Keccak256 implementations.
+* An interesting issue which is acknowledged by the Vyper team is there are [redundant Keccak256 implementations](https://github.com/vyperlang/vyper/issues/3649).
 
 #### 3. [Sommelier](https://www.sommelier.finance/) (their EVM contracts)
 
