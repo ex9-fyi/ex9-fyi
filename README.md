@@ -2,6 +2,8 @@ Hi! I currently work as an EVM auditor and developer.
 
 # Developement experiences
 
+### Free and open source contributions
+
 * Emap, a minimal onchain name service: https://github.com/exp7l/emap
 * Contributions to [Dark.fi](https://dark.fi/):
     * Taken from PSE's Halo2 fork to make `configure` take "dynamic parameters" https://github.com/parazyd/halo2/pull/2
@@ -12,7 +14,13 @@ Hi! I currently work as an EVM auditor and developer.
         ) -> Self::Config {...}
     ```
     * other [pull requests](https://github.com/darkrenaissance/darkfi/pulls?q=author%3Afreeranged3v+)
-* Prior backend dev experience at FAANG
+
+### Software engineer, Amazon, 2019-2022
+- Led and shipped automation for legal info collection and investigation
+resulted in $2MM saving in operational cost per year.
+- Led and shipped search keyword recommendations, for amazon.com detail
+page. Showed $10+MM per year profitability lift in pilot.
+- Clojure, AWS for production.
 
 # Audit Portfolio
 
