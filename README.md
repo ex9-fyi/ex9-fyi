@@ -1,11 +1,6 @@
-Hi! I currently work as an **EVM auditor** and **blockchain developer**.
+Hi! I currently work as an EVM auditor and developer.
 
-* Themes I believe to be under-explored in blockchain contracts:
-  * Security by simplification through DSLs ([example from the STEPS](https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf))
-  * Security by isolation ([example from QubesOS](https://t.co/DuWNrTnv76))
- * Let's connect over on X [https://x.com/exponential__](https://x.com/exponential__) (DM's open)
-
-# Dev Experiences
+# Developement experiences
 
 * Emap, a minimal onchain name service: https://github.com/exp7l/emap
 * Contributions to [Dark.fi](https://dark.fi/):
