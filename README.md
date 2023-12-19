@@ -8,35 +8,40 @@ Hi! I currently work as an EVM auditor and developer. Happy to connect and my DM
 
 ### Selected audits
 
-* Maker-1: Dollar Cost Average contracts, **1 medium**
-  * https://0xmacro.com/library/audits/maker-1
-  * Volatility anaylsis and mitigation https://0xmacro.notion.site/MakerDAO-1-TWAP-Lag-and-Arbitrage-Loss-5ee753d73d4f49dda61c4d566e99f925
- 
-* Vyper compiler audit ([public issues](https://github.com/vyperlang/vyper/issues?q=is%3Aissue+is%3Aclosed+author%3Aexp7l))
-   
-* Sommelier-3: Cellar contracts, **10MM+ TVL, 3 high, 9 medium**
-  * https://0xmacro.com/library/audits/sommelier-3
-  
-* Sommelier-4: Cellar contracts and Defi protocol integrations, **5 high, 8 medium**
-  * https://0xmacro.com/library/audits/sommelier-4
-  
-* Sommelier-5: Euler integration contracts, **2 high**
-  * https://0xmacro.com/library/audits/sommelier-5
-  
-* Thirdweb-6: Marketplace contracts, **4 critical, 1 high, 1 medium**
-  * https://0xmacro.com/library/audits/thirdweb-6
- 
-* Based Market Trade to Earn
-  * https://github.com/exp7l/docs/blob/main/based-market-trade-to-earn.pdf
+#### 1. [Maker](https://makerdao.com/en/)
 
-* 0xMacro private audits:
-  * TreasureDAO ([MagicSwap](https://treasuredao.substack.com/p/magicswap-the-first-amm-with-universal))
-  * Frax
+* Audited their Kiln contracts, which are used to buy back Maker's MKR tokens and burn.
+* Vulnerabilities found by team and I: 1 medium, 1 low, 2 quality, 2 informational.
+* Provided both [audit report](https://0xmacro.com/library/audits/maker-1) and [statisitical assumption check report](https://0xmacro.notion.site/MakerDAO-1-TWAP-Lag-and-Arbitrage-Loss-5ee753d73d4f49dda61c4d566e99f925).
+
+#### 2. [Vyper compiler](https://docs.vyperlang.org/en/stable/) (judging now)
+ 
+* Reported multiple issues, [3 of which are public](https://github.com/vyperlang/vyper/issues?q=is%3Aissue+is%3Aclosed+author%3Aexp7l).
+* An interesting issue which is acknowledged by the Vyper team is there are redundant Keccak256 implementations.
+
+#### 3. [Sommelier](https://www.sommelier.finance/) (their EVM contracts)
+
+* Defi protocol in the Cosmos ecosystem: they offer vaults where a strageist rebalances the vault's portfolio after the strategist's trades are validated in the Sommelier blockchain and by their Ethereum contracts' rules.
+* Currently has $60MM TVL.
+* Report and vulnerabilities found by team and I:
+  * [Cellar contracts; 3 high, 9 medium, 4 low](https://0xmacro.com/library/audits/sommelier-3).
+  * [Cellar contracts and defi protocol integrations; 5 high, 8 medium, 2 low](https://0xmacro.com/library/audits/sommelier-4).
+  * [Euler integration contracts; 2 high](https://0xmacro.com/library/audits/sommelier-5)
+
+#### 4. [Thirdweb](https://thirdweb.com/)
+
+* [Marketplace contracts report by team and I; 4 critical, 1 high, 1 medium](https://0xmacro.com/library/audits/thirdweb-6)
+
+#### 5. [Based Market](https://www.based.markets/)'s Trade to Earn program
+
+* [Solo audit; 1 ciritcal and 2 medium](https://github.com/exp7l/docs/blob/main/based-market-trade-to-earn.pdf)
+
+#### 6. Other audits performed with audit firm [0xMacro](https://0xmacro.com/):
+  * [TreasureDAO](https://treasure.lol/) ([MagicSwap](https://treasuredao.substack.com/p/magicswap-the-first-amm-with-universal))
+  * [Frax](https://frax.finance/)
   * Zion (audit and design consultation)
 
 ## 2022-Present, free and open source contributions
-
-
 
 ### 1. Contributions to [Dark.fi](https://dark.fi/)
 
