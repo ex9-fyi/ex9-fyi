@@ -41,21 +41,23 @@ Hi! I currently work as an EVM auditor and developer. Happy to connect and my DM
 
 
 
-### [Darkfi](https://dark.fi/)
+### 1. Contributions to [Dark.fi](https://dark.fi/)
 
-* Contributions to [Dark.fi](https://dark.fi/):
-    * Taken from PSE's Halo2 fork to make `configure` take "dynamic parameters" https://github.com/parazyd/halo2/pull/2
-    ```
-        fn configure_with_params(
-            meta: &mut ConstraintSystem<pallas::Base>,
-            params: Self::Params,
-        ) -> Self::Config {...}
-    ```
-    * other [pull requests](https://github.com/darkrenaissance/darkfi/pulls?q=author%3Afreeranged3v+)
+#### a. Zkrunner
+
+* To accelerate Darkfi ZK script developer's iteration speed, Darkfi needed a tool to generate a ZK proof's public inputs based on witnesses, and a way to quickly prove and verify with a Darkfi ZK circuit.
+* I contributed the Python bindings ([1](https://github.com/darkrenaissance/darkfi/pull/178/files),[2](https://github.com/darkrenaissance/darkfi/pull/179/files#diff-d5cf2236d11e91914a46216982f099c86adcc6e426647a4a07580414c9aa6f99)) for Darkfi's SDK
+  * With others' contributions, it led to [this demo](https://github.com/darkrenaissance/darkfi/pull/178/files).
+
+#### b. Runtime parameters for Darkfi ZK circuit
+
+* This is a proof of concept to take Etheruem Foundation Privacy Exploration and Scaling Group's [work on their Halo2 fork](https://github.com/privacy-scaling-explorations/halo2/pull/168) to [apply to Darkfi's Halo2 fork](https://github.com/parazyd/halo2/pull/2).
+* The idea is to allow Darkfi ZK circuit developer to accept additional arguments at runtime to configure their circuit.
  
-### Emap, a minimal onchain name service
+### 2. Emap, a minimal onchain name service
 
-https://github.com/exp7l/emap
+* A fork of [DappHub's Dmap](https://github.com/dapphub/dmap/tree/master/core) which is optimized to be as minimal as possible in implementation.
+* It is a name service that supports forward name resolution (going from name to resources) and backward name resolution (going from resources to name) **in less than 200 lines of code** in order to maximize auditability and security.
 
 ## 2019-2022, Software engineer, Amazon
 
