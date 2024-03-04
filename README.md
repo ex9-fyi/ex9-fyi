@@ -1,4 +1,4 @@
-Hi! I currently work as an EVM auditor and developer. Happy to connect and my DM's open on [Twitter](https://twitter.com/exponential__).
+Working on https://twitter.com/ether_log
 
 # Experiences
 
