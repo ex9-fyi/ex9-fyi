@@ -2,7 +2,7 @@ Working on https://twitter.com/ether_log
 
 # Experiences
 
-## 2022-Present, EVM dapp auditing
+## 2022-Present, smart contract security engineer
 
 * Audited for Maker, Sommelier, TreasureDAO, Vyper and other reputable teams.
 
@@ -13,13 +13,8 @@ Working on https://twitter.com/ether_log
 * Audited their Kiln contracts, which are used to buy back Maker's MKR tokens and burn.
 * Vulnerabilities found by team and I: 1 medium, 1 low, 2 quality, 2 informational.
 * Provided both [audit report](https://0xmacro.com/library/audits/maker-1) and [statisitical assumption check report](https://0xmacro.notion.site/MakerDAO-1-TWAP-Lag-and-Arbitrage-Loss-5ee753d73d4f49dda61c4d566e99f925).
-
-#### 2. [Vyper compiler](https://docs.vyperlang.org/en/stable/) (judging now)
- 
-* Reported multiple issues, [3 of which are public](https://github.com/vyperlang/vyper/issues?q=is%3Aissue+is%3Aclosed+author%3Aexp7l).
-* An interesting issue which is acknowledged by the Vyper team is there are [redundant Keccak256 implementations](https://github.com/vyperlang/vyper/issues/3649).
-
-#### 3. [Sommelier](https://www.sommelier.finance/) (their EVM contracts)
+  
+#### 2. [Sommelier](https://www.sommelier.finance/) (their EVM contracts)
 
 * Defi protocol in the Cosmos ecosystem: they offer vaults where a strageist rebalances the vault's portfolio after the strategist's trades are validated in the Sommelier blockchain and by their Ethereum contracts' rules.
 * Currently has $60MM TVL.
@@ -28,18 +23,19 @@ Working on https://twitter.com/ether_log
   * [Cellar contracts and defi protocol integrations; 5 high, 8 medium, 2 low](https://0xmacro.com/library/audits/sommelier-4).
   * [Euler integration contracts; 2 high](https://0xmacro.com/library/audits/sommelier-5).
 
-#### 4. [Thirdweb](https://thirdweb.com/)
+#### 3. [Thirdweb](https://thirdweb.com/)
 
 * [Marketplace contracts report by team and I; 4 critical, 1 high, 1 medium](https://0xmacro.com/library/audits/thirdweb-6).
 
-#### 5. [Based Market](https://www.based.markets/)'s Trade to Earn program
-
-* [Solo audit; 1 ciritcal and 2 medium](https://github.com/exp7l/docs/blob/main/based-market-trade-to-earn.pdf).
-
-#### 6. Other audits performed with audit firm [0xMacro](https://0xmacro.com/) (reports are private):
+#### 4. Others:
   * [TreasureDAO](https://treasure.lol/) ([MagicSwap](https://treasuredao.substack.com/p/magicswap-the-first-amm-with-universal)).
   * [Frax](https://frax.finance/).
   * Zion (audit and design consultation).
+  * [Vyper compiler](https://docs.vyperlang.org/en/stable/)
+      * Acknowledged by Vyper team, [redundant Keccak256 implementations](https://github.com/vyperlang/vyper/issues/3649).
+      * Misc: https://github.com/vyperlang/vyper/issues?q=is%3Aissue+is%3Aclosed+author%3Aexp7l
+  * [Based Market](https://www.based.markets/)'s Trade to Earn program
+      * [Solo audit; 1 ciritcal and 2 medium](https://github.com/exp7l/docs/blob/main/based-market-trade-to-earn.pdf).
 
 ## 2022-Present, free and open source contributions
 
