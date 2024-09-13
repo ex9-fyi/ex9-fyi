@@ -1,5 +1,3 @@
-Working on https://twitter.com/ether_log
-
 # Experiences
 
 ## 2022-Present, smart contract security engineer
@@ -57,7 +55,7 @@ Working on https://twitter.com/ether_log
 * It is a name service that supports forward name resolution (going from name to resources) and backward name resolution (going from resources to name) **in less than 200 lines of code** in order to maximize auditability and security.
 * A fork of [DappHub's Dmap](https://github.com/dapphub/dmap) which is optimized to be as minimal as possible in implementation.
 
-## 2019-2022, Software engineer, Amazon
+## Pre 2022, Software engineer, Amazon
 
 - Led and shipped automation for legal info collection and investigation resulted in $2MM saving in operational cost per year.
 - Led and shipped search keyword recommendations, for amazon.com detail page. Showed $10MM+ per year profitability lift in pilot.
