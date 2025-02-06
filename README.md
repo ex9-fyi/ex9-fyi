@@ -8,8 +8,7 @@ Great team, good people. Clients: [Maker](https://0xmacro.com/library/audits/mak
 
 ## [Dark.fi](https://dark.fi/) (Hardcore peeps)
 
-* [ZK repl](https://twitter.com/parazyd/status/1690776743756402688)
-* [Halo2 hack](https://github.com/parazyd/halo2/pull/2)
+[ZK repl](https://twitter.com/parazyd/status/1690776743756402688); [Halo2 hack](https://github.com/parazyd/halo2/pull/2)
  
 ## Toys / maybe startups
 
