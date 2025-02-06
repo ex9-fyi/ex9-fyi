@@ -1,6 +1,6 @@
 # Auditing
 
-* Audited for Maker, Sommelier, TreasureDAO, Vyper and other reputable teams.
+* Audited for Maker, Sommelier, TreasureDAO, Vyper and others
 
 **1. [Maker](https://makerdao.com/en/)**
 
