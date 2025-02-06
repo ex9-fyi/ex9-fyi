@@ -1,4 +1,4 @@
-# Chief code yapper at [tplus.cx](tplus.cx) w/ [markus_0_](x.com/markus_0_)
+# Chief code yapper at [tplus.cx](http://tplus.cx) w/ [markus_0_](http://x.com/markus_0_)
 
 You'd wish you didn't ignore us.
 
