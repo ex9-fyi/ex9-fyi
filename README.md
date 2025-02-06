@@ -1,4 +1,4 @@
-# Chief code yapper at [tplus.cx](http://tplus.cx) w/ [markus_0_](http://x.com/markus_0_)
+# Chief code yapper at [t+](http://tplus.cx) w/ [markus_0_](http://x.com/markus_0_)
 
 You'd wish you didn't ignore us.
 
@@ -20,5 +20,5 @@ Great team, good people. Clients: [Maker](https://0xmacro.com/library/audits/mak
 
 ## Clojure backend dev
 
-It's great. You should deserve a Clojure job, hit me up [@ex9_fyi](https://x.com/ex9_fyi)
+It's great. You should deserve a Clojure job @ [t+](https://tplus.cx/), hit me up [@ex9_fyi](https://x.com/ex9_fyi)
 
