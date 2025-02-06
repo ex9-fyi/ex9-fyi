@@ -1,6 +1,6 @@
-# Auditing
+# Auditing @ 0xmacro.com
 
-* Audited for Maker, Sommelier, TreasureDAO, Vyper and others
+Great team, good people. Clients: Maker, Sommelier, TreasureDAO, Vyper and others
 
 **1. [Maker](https://makerdao.com/en/)**
 
@@ -18,8 +18,7 @@
 
 * [4 critical, 1 high, 1 medium](https://0xmacro.com/library/audits/thirdweb-6).
 
-
-## Free and open source contributions
+## Open source
 
 **1. Contributions to [Dark.fi](https://dark.fi/)**
 
