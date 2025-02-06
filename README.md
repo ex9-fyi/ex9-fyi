@@ -4,7 +4,7 @@ You'd wish you didn't ignore us.
 
 # Auditing @ [0xmacro.com](http://0xmacro.com)
 
-Great team, good people. Clients: [Maker](https://0xmacro.com/library/audits/maker-1) [more](https://0xmacro.notion.site/MakerDAO-1-TWAP-Lag-and-Arbitrage-Loss-5ee753d73d4f49dda61c4d566e99f925), [Sommelier](https://0xmacro.com/library/audits/sommelier-3), TreasureDAO, Vyper, [Thirdweb](https://0xmacro.com/library/audits/thirdweb-6) and others
+Great team, good people. Clients: [Maker](https://0xmacro.com/library/audits/maker-1) [(detail)](https://0xmacro.notion.site/MakerDAO-1-TWAP-Lag-and-Arbitrage-Loss-5ee753d73d4f49dda61c4d566e99f925), [Sommelier](https://0xmacro.com/library/audits/sommelier-3), TreasureDAO, Vyper, [Thirdweb](https://0xmacro.com/library/audits/thirdweb-6) and others
 
 ## [Dark.fi](https://dark.fi/) (Hardcore peeps)
 
