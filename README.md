@@ -1,4 +1,4 @@
-# Auditing @ 0xmacro.com
+# Auditing @ [0xmacro.com](0xmacro.com)
 
 Great team, good people. Clients: [Maker](https://0xmacro.com/library/audits/maker-1) [more](https://0xmacro.notion.site/MakerDAO-1-TWAP-Lag-and-Arbitrage-Loss-5ee753d73d4f49dda61c4d566e99f925), [Sommelier](https://0xmacro.com/library/audits/sommelier-3), TreasureDAO, Vyper, [Thirdweb](https://0xmacro.com/library/audits/thirdweb-6) and others
 
