@@ -1,22 +1,6 @@
 # Auditing @ 0xmacro.com
 
-Great team, good people. Clients: Maker, Sommelier, TreasureDAO, Vyper and others
-
-**1. [Maker](https://makerdao.com/en/)**
-
-* Audited the first version of Smart Burn Engine
-* [Audit report](https://0xmacro.com/library/audits/maker-1) and [statisitical assumption check report](https://0xmacro.notion.site/MakerDAO-1-TWAP-Lag-and-Arbitrage-Loss-5ee753d73d4f49dda61c4d566e99f925)
-  
-**2. [Sommelier](https://www.sommelier.finance/)**
-
-* $60MM TVL at one point
-* [Cellar contracts; 3 high, 9 medium, 4 low](https://0xmacro.com/library/audits/sommelier-3).
-* [Cellar contracts and defi protocol integrations; 5 high, 8 medium, 2 low](https://0xmacro.com/library/audits/sommelier-4).
-* [Euler integration contracts; 2 high](https://0xmacro.com/library/audits/sommelier-5).
-
-**3. [Thirdweb](https://thirdweb.com/)**
-
-* [4 critical, 1 high, 1 medium](https://0xmacro.com/library/audits/thirdweb-6).
+Great team, good people. Clients: [Maker](https://0xmacro.com/library/audits/maker-1) [more](https://0xmacro.notion.site/MakerDAO-1-TWAP-Lag-and-Arbitrage-Loss-5ee753d73d4f49dda61c4d566e99f925), [Sommelier](https://0xmacro.com/library/audits/sommelier-3), TreasureDAO, Vyper, [Thirdweb](https://0xmacro.com/library/audits/thirdweb-6) and others
 
 ## [Dark.fi](https://dark.fi/)**; Hardcore peeps
 
