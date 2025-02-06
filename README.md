@@ -13,7 +13,7 @@ Great team, good people. Clients: [Maker](https://0xmacro.com/library/audits/mak
  
 ## Toys / maybe startups
 
-**Emap, minimal name service; Fork of [Dmap](https://github.com/dapphub/dmap) from Maker's [Nikolai](https://nikolai.fyi/)**
+**Emap, minimal name service; Fork of [Dmap](https://github.com/dapphub/dmap) from Maker's [Nikolai](https://nikolai.fyi/)**. Great person
 
 **State machine graph -> Solidity contracts**
 Ask me, I'll show you
