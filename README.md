@@ -13,9 +13,7 @@ Great team, good people. Clients: [Maker](https://0xmacro.com/library/audits/mak
  
 ## Toys / maybe startups
 
-**Emap, minimal name service**
-* It is a name service that supports forward name resolution (going from name to resources) and backward name resolution (going from resources to name) **in less than 200 lines of code** in order to maximize auditability and security.
-* A fork of [DappHub's Dmap](https://github.com/dapphub/dmap) which is optimized to be as minimal as possible in implementation.
+**Emap, minimal name service; Fork of [Dmap](https://github.com/dapphub/dmap) from Maker's [Nikolai](https://nikolai.fyi/)**
 
 **State machine graph -> Solidity contracts**
 Ask me, I'll show you
