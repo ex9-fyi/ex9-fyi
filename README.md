@@ -20,5 +20,5 @@ Great team, good people. Clients: [Maker](https://0xmacro.com/library/audits/mak
 
 ## Clojure backend dev
 
-It's great. You should deserve a Clojure job @ [t+](https://tplus.cx/), hit me up [@ex9_fyi](https://x.com/ex9_fyi)
+It's great. Great devs deserve a Clojure job @ [t+](https://tplus.cx/get-involved). Show me your code [@ex9_fyi](https://x.com/ex9_fyi)
 
