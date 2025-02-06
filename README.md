@@ -15,13 +15,11 @@ Great team, good people. Clients: [Maker](https://0xmacro.com/library/audits/mak
 
 **Emap, minimal name service; Fork of [Dmap](https://github.com/dapphub/dmap) from Maker's [Nikolai](https://nikolai.fyi/)**. Great person. Read his [principles](https://chaser.eth.limo/nikolais-principles)
 
-**State machine graph -> Solidity contracts**
-Ask me, I'll show you
+**State machine graph -> Solidity contracts**. Ask me, I'll show you
 
-**Simple Replit Agent for Solidity contracts, before Replit Agent**
-Ask
+**Simple Replit Agent for Solidity contracts, before Replit Agent**. Ask
 
 ## Clojure backend dev
 
-It's great. You should try it.
+It's great. You should deserve a Clojure job, hit me up [@ex9_fyi](https://x.com/ex9_fyi)
 
