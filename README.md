@@ -10,7 +10,7 @@ Great team, good people. Clients: [Maker](https://0xmacro.com/library/audits/mak
 
 [ZK repl](https://twitter.com/parazyd/status/1690776743756402688), [Halo2 hack](https://github.com/parazyd/halo2/pull/2)
  
-## Toys / maybe startups
+## Toys / startup attempts
 
 **Emap, minimal name service; Fork of [Dmap](https://github.com/dapphub/dmap) from Maker's [Nikolai](https://nikolai.fyi/)**. Great person. Read his [principles](https://chaser.eth.limo/nikolais-principles)
 
