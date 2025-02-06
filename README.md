@@ -1,6 +1,4 @@
-_Some of things I've worked on and fun times!_
-
-# Smart contract auditing
+# Auditing
 
 * Audited for Maker, Sommelier, TreasureDAO, Vyper and other reputable teams.
 
@@ -41,8 +39,7 @@ _Some of things I've worked on and fun times!_
 * It is a name service that supports forward name resolution (going from name to resources) and backward name resolution (going from resources to name) **in less than 200 lines of code** in order to maximize auditability and security.
 * A fork of [DappHub's Dmap](https://github.com/dapphub/dmap) which is optimized to be as minimal as possible in implementation.
 
-## Software engineering at Amazon
+## Clojure backend dev
 
-- Led backoffice automation; $2MM/yr saving in operational cost per year.
-- Led recommendation product for amazon.com; $10MM+/yr profitability lift in pilot.
+It's great. You should try it.
 
